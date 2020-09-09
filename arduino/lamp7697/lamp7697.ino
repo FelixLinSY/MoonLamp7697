@@ -14,7 +14,7 @@
 #define LED_VALUE_MIN   0
 #define LED_VALUE_MAX   255
 
-#define PIN            7
+#define PIN            5
 #define NUMPIXELS      4
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
