@@ -1,7 +1,7 @@
 # MoonLamp7697
 moon lamp & voronoi lamp for linkit7697
 
-本專案製作一個造型檯燈可透過
+使用Linkit 7697實作一個月球燈（或Voronoi燈），並且透過低功耗藍牙進行手機遙控。
 
 ## 材料 material 
 
